@@ -1,0 +1,1 @@
+ALTER TABLE public.company_agents DROP CONSTRAINT company_agents_company_id_fkey;
